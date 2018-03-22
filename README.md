@@ -9,6 +9,8 @@ A React Native Uber UI clone app with animation using create-react-native-app
 * native-base
 * react-navigation
 
+# Expo Download
+https://expo.io/@paulhanna1933/uber-ui
 
 # Start App
 Clone repo, install, cd into folder and run:
